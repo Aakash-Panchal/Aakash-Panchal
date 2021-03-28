@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Aakash Panchal
-- 🌱 I’m currently learning Android Custom Rom Development
+### Hi there,I'm Aakash Panchal 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aakash-Panchal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+I'm Learner, currently Learning Java, Python, Git and Web Development 
+Willing to contribute more and more in Open Source Projects.
 
-<!---
-AakashOP/AakashOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aakash-Pancha&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Pancha&theme=dark"/></p>
