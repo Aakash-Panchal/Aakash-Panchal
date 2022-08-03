@@ -13,6 +13,10 @@
 
 📫 How to reach me **aakashpanchal@gmail.com**
 
+## 🌐 Connect with me:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aakashpanchal1) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/yASSwGQAbx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_aakash21) 
+
+
 ## 📊 My Github Stats
 
   <br/>
@@ -36,15 +40,17 @@
 </p>
 
 
+<div align="center" width="100%" height="auto"> 
 
-## 🌐 Connect with me:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aakashpanchal1) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/yASSwGQAbx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_aakash21) 
-
-### ✍️ Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+<div align="center"> 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aakash-panchal">
 </a>
 <a href="https://github.com/aakash-panchal?tab=followers"><img src="https://img.shields.io/github/followers/aakash-panchal?label=Followers&style=social" alt="GitHub Badge"></a>
+
+</div>
