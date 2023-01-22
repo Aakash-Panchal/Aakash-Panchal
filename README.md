@@ -11,7 +11,7 @@
 
 👨‍💻 All of my projects are available at **[My Portfolio](https://github/aakash-panchal)**
 
-📫 How to reach me **aakashpanchal@gmail.com**
+📫 How to reach me **aakashpanchal7000@gmail.com**
 
 ## 🌐 Connect with me:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aakashpanchal1) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/yASSwGQAbx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_aakash21) 
